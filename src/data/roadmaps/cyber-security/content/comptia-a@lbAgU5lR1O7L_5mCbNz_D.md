@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@CompTIA A+](https://www.comptia.org/certifications/a)
 - [@video@CompTIA A+ Course](https://www.youtube.com/watch?v=1CZXXNKAY5o)
+- [@video@CompTIA A+ Course 2025](https://www.youtube.com/watch?v=AIfIA7hEgrw&list=PLG49S3nxzAnnes8ZGI-OBlKEukHCX46N8)
